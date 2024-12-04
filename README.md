@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏴:ctf菜鸟
-- 💻：system安全学习者
-- 🏫:中科院某所研究生
+- 🏴:PWN钻研者
+- 💻:系统安全初阶学者
+- 🕳️:CVE渴求者
+- 🏫:中科院底层人员
 - 📧:联系方式[peiwithhao@outlook.com](peiwithhao@outlook.com)
